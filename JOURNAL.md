@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A fully functional diagnostic dev board for early prototyping,
+> A fully functional diagnostic dev board for early prototyping. V0.01 Is the Basic version Without Sim integration.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
