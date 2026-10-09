@@ -17,7 +17,7 @@
 | [1.8 in Touchless TFT](https://www.digikey.com/en/products/detail/sparkfun-electronics/15143/10064420) | Main Display | 1 | $35.00 | $35.00 | [Digikey](https://www.digikey.com/en/products/detail/sparkfun-electronics/15143/10064420) |
 | [18650](https://www.digikey.com/en/products/detail/jauch-quartz/LI18650JLS-HB-3-35AH-PROTECTED/13538411) | Battery | 1 | $15.00 | $15.00 | [Digikey](https://www.digikey.com/en/products/detail/jauch-quartz/LI18650JLS-HB-3-35AH-PROTECTED/13538411) |
 | **Parts subtotal** | — | — | — | **$62.40** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$72.40** | — |
+| **Tax & shipping** | — | — | — | **$7.00** | — |
+| **Total** | — | — | — | **$69.40** | — |
 
-**$7.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
